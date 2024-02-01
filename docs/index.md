@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/web.png
+# heroImage: /img/web.png
 heroText: 前端技术栈
 tagline: Web前端技术博客，积跬步以至千里，致敬每个爱学习的你。
 # actionText: 立刻进入 →
@@ -80,6 +80,6 @@ features: # 可选的
 
 - **WeChat or QQ**: <a href="tencent://message/?uin=894072666&Site=&Menu=yesUrl" class='qq'>894072666</a>
 - **Email**: <a href="mailto:894072666@qq.com">894072666@qq.com</a>
-- **GitHub**: <https://github.com/xugaoyi>
+- **GitHub**: <https://github.com/pblove>
 
 </br>  -->
